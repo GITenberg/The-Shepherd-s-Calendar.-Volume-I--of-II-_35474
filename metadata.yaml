@@ -1,0 +1,32 @@
+_repo: The-Shepherd-s-Calendar.-Volume-I--of-II-_35474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hogg, James
+    alias: Craig, J. H.
+    birthdate: 1770
+    deathdate: 1835
+    gutenberg_agent_id: '860'
+    url: http://www.gutenberg.org/2009/agents/860
+    wikipedia: http://en.wikipedia.org/wiki/James_Hogg
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Shepherds -- Fiction'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcsh 'Rural poor -- Fiction'
+title: The Shepherd's Calendar. Volume I (of II)
+url: http://www.gutenberg.org/ebooks/35474
